@@ -110,11 +110,3 @@ Network Spelunker is organized around focused infrastructure responsibilities, i
 - shared engineering governance and validation conventions.
 
 The implementation repositories are intentionally private. This public organization profile explains the engineering problems, system responsibilities, and design philosophy without exposing their operational topology.
-
-## Current Status
-
-Network Spelunker is under active implementation.
-
-A substantial declarative baseline and durable architecture exist. Operational readiness remains gated by real hardware, independent management-path, platform, storage, backup, and representative restore validation.
-
-The project is described as recoverable only when those runtime expectations have been demonstrated, not merely because desired-state configuration exists.
